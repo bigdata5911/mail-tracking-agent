@@ -168,7 +168,7 @@ app_script_email_automation/
 ## Project Setup
 1. **Clone the Repository**  
 ``` bash
-      git clone https://github.com/danieladdisonorg/email-marketing-ai-agent.git
+      git clone https://github.com/bigdata5911/email-marketing-ai-agent.git
 ```
 ``` bash
       cd email-marketing-ai-agent
